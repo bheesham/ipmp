@@ -20,6 +20,7 @@
 #include <bps/screen.h>
 #include <fcntl.h>
 #include <screen/screen.h>
+#include <stdio.h>
 
 static bool shutdown = false;
 
